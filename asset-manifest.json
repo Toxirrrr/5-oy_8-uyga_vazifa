@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac25fa6b.css",
+    "main.js": "/static/js/main.7c1a97c1.js",
+    "static/media/mulish-v12-latin-600.woff": "/static/media/mulish-v12-latin-600.42a2d7dbc8d862c15d20.woff",
+    "static/media/mulish-v12-latin-regular.woff": "/static/media/mulish-v12-latin-regular.c3ed864f95b706080ac2.woff",
+    "static/media/mulish-v12-latin-700.woff": "/static/media/mulish-v12-latin-700.650af1d9cbb5dcb8f856.woff",
+    "static/media/mulish-v12-latin-600.woff2": "/static/media/mulish-v12-latin-600.9352e17e4fc25dc77b87.woff2",
+    "static/media/mulish-v12-latin-regular.woff2": "/static/media/mulish-v12-latin-regular.545bb0738f864da88621.woff2",
+    "static/media/mulish-v12-latin-700.woff2": "/static/media/mulish-v12-latin-700.5511543db7aeca28690f.woff2",
+    "static/media/cursor.svg": "/static/media/cursor.d627cc5bed016c00ff8f.svg",
+    "static/media/Vector.svg": "/static/media/Vector.721b5e46cc21313e6a04302e9a2358ac.svg",
+    "index.html": "/index.html",
+    "static/media/search.svg": "/static/media/search.d29bcf4cdeb4a521dce1dafa5ba2b80d.svg",
+    "static/media/overview__icon.svg": "/static/media/overview__icon.96ca2d236f4086b5bf19220bfb023a80.svg",
+    "main.ac25fa6b.css.map": "/static/css/main.ac25fa6b.css.map",
+    "main.7c1a97c1.js.map": "/static/js/main.7c1a97c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac25fa6b.css",
+    "static/js/main.7c1a97c1.js"
+  ]
+}
